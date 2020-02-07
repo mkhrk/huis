@@ -28,7 +28,7 @@ twitter_username: m___hal
 github_username:  mkhrk
 
 # Build settings
-theme: 
+theme: minima
 plugins:
   - jekyll-feed
 
